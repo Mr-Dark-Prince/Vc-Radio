@@ -1,5 +1,5 @@
 # VC-RADIO
-Telegram Voice Chat Radio Player 📻🎙
+Telegram Voice Chat Radio Player
 
 ![logo](https://telegra.ph/file/887ac377ec6120bae2f0f.jpg)
 
