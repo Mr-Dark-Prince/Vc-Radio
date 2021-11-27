@@ -9,5 +9,4 @@ The easiest way to deploy this Bot
 
 
 #Credits
-[ASMSAFONE](https://github.com/AsmSafone/RadioPlayerV2)
 [MR-DARK-PRINCE](https://github.com/Mr-dark-prince)
